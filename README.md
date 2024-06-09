@@ -80,7 +80,7 @@ This section covers the scripts for generating PAE plots and mapping the binding
 Binding sites are colored as follows: blue - USE1, purple - Rab18, yellow - ZW10.
 
 <div align="center">
-  <img src="PAE/test_bs/AF3-BS5.png" alt="PAE Plot with Binding Sites" width="600">
+  <img src="Figures data/PAE/test_bs/AF3-BS5.png" alt="PAE Plot with Binding Sites" width="600">
 </div>
 
 ---
@@ -106,13 +106,13 @@ This section details the code for mapping phenotyping traits onto the PAE plot.
 Subdomain affected by SOPH variant.
 
 <div align="center">
-  <img src="PAE/1914_count-104.png" alt="Phenotyping Trait Mapping 1" width="600">
+  <img src="Figures data/PAE/1914_count-104.png" alt="Phenotyping Trait Mapping 1" width="600">
 </div>
 
 Phenotype map of Osteogenesis Imperfecta pathogenic variants.
 
 <div align="center">
-  <img src="PAE_pheno/filter 5/PAE_OI.png" alt="Phenotyping Trait Mapping 2" width="600">
+  <img src="Figures data/PAE_pheno/filter 5/PAE_OI.png" alt="Phenotyping Trait Mapping 2" width="600">
 </div>
 
 ---
