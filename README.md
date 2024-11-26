@@ -109,7 +109,7 @@ Subdomain affected by SOPH variant.
   <img src="Figures data/PAE/1914_count-104.png" alt="Phenotyping Trait Mapping 1" width="600">
 </div>
 
-Phenotype map of Osteogenesis Imperfecta pathogenic variants.
+Protein-Variant-Phenotype (PVP) map of Osteogenesis Imperfecta.
 
 <div align="center">
   <img src="Figures data/PAE_pheno/filter 5/PAE_OI.png" alt="Phenotyping Trait Mapping 2" width="600">
