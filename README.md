@@ -126,3 +126,32 @@ The supplementary materials include phenotype and variants data, and details abo
 - `Supplementary table 2.ods`
 
 All data is too large to be loaded into GitHub and is available by request. Please contact me through my [personal GitHub page](https://github.com/LyonyaZhozhikov).
+
+<div id="header" align="center">
+
+#### Published in:
+ 
+##### 
+<a href="https://onlinelibrary.wiley.com/journal/10970134"><img src="https://shields.io/badge/PROTEINS:%20Structure%20Function%20and%20Bioinformatics-Wiley-green?logo=#E9711C&PROTEINS:%20Structure%20Function%20and%20Bioinformatics=Wiley" alt="ARTICLE"/></a>
+
+##### 
+<a href="https://onlinelibrary.wiley.com/doi/10.1002/prot.26764"><img src="https://shields.io/badge/Full%20Access-Article-green?logo=#E9711C&Full%20Access=Article" alt="FullAccess"/></a>
+
+<table align="center">
+  <tr>
+    <td align="left" style="width: 50%;">
+      <a href="https://www.scimagojr.com/journalsearch.php?q=14283&amp;tip=sid&amp;exact=no" title="SCImago Journal &amp; Country Rank">
+        <img src="https://www.scimagojr.com/journal_img.php?id=14283" alt="SCImago Journal &amp; Country Rank" />
+      </a>
+    </td>
+    <td align="right" style="width: 50%;">
+      <a href="https://wos-journal.info/journalid/14272" title="WOS-Journal.info">
+        <img src="https://wos-journal.info/journalide/14272" width="320" height="120" alt="WOS-Journal.info" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+Please, also check my ResearchGate page for full texts and more: <a href="https://www.researchgate.net/profile/Leonid-Zhozhikov-3"><img src="https://shields.io/badge/ResearchGate-Page-green?logo=#E9711C&ResearchGate=Page" alt="Page"/></a>
